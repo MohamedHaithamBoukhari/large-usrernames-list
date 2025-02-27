@@ -35,7 +35,7 @@ Make sure you have the following tools installed on your system:
 ### Clone the Project
 
 ```sh
-git clone <repository-url>
+git clone git@github.com:MohamedHaithamBoukhari/large-usrernames-list.git
 cd large-user-list
 ```
 
